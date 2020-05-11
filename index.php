@@ -137,7 +137,7 @@ a.active, a:hover{
         <label class="logo">JD-ADA</label>
         <ul id="right-nav">
             <li><a class="active" href="index.php">Home</a></li>
-            <li><a href="shop.php">Sell</a></li>
+            <li><a href="sell.html">Sell</a></li>
             <li><a href="shop.php">Shop</a></li>
             <li><a href="cart.php">Shopping Cart</a></li>
             <li><a href="customer/my_account.php">Profile</a></li>
